@@ -124,6 +124,9 @@ ul {
   .nav{
     flex-direction: column;
   }
- 
+  .name-title {
+    padding: 18px 15px ;
+
+}
 }
 /*# sourceMappingURL=kimia.css.map */
